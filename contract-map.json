@@ -3609,4 +3609,11 @@
     "symbol": "SWASH",
     "decimals": 18
   }
-}
+},
+  "0x91Fc721F976b808E9ADD28eDd150F0DF46e120e1": {
+    "name": "KEMONOs",
+    "logo": "kemonos-logos.png",
+    "BEP20": true,
+    "symbol": "KMS",
+    "decimals": 18
+  }
